@@ -1,0 +1,11 @@
+#Ignore text files
+temp.txt
+.ds_store
+*.thumbnail
+*.zip
+log/*.log
+log/*.log[0-9]
+assets/*.psd
+assets/photoshop/
+assets/videos/
+assets/videos/tour_*.mp4
